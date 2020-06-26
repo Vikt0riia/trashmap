@@ -44,6 +44,11 @@
 	Contains the following data:
 	- Generation of waste by sector (agriculture, energy production, manufacturing, mining, etc.) in thousands of tonnes/year.
 
+	TRADEENV_IND12_17062020170243909.csv (https://stats.oecd.org/Index.aspx?DataSetCode=TRADEENV_IND12)
+
+	Contains the following data:
+	- The amount of exports and imports of waste and scrap as defined in Kellenberg (2012) in current USD and in kilograms for all countries (not just OECD) between 2003 and 2016. HS code lookup https://www.flexport.com/data/hs-code/391520-waste-paring-and-scrap-of-styrene-polymers
+
 
 
 4. Eurostat data (https://ec.europa.eu/eurostat/data; in Tables-by-theme/Environment-and-energy/Environment/Waste/Waste-streams) 
