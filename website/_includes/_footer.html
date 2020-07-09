@@ -1,0 +1,33 @@
+<!--
+    <div id="up-to-top" class="row">
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div>
+    </div>
+-->
+
+<footer id="footer-content" class="bg-grau t20">
+  <div id="footer">
+    <nav class="row">
+      <section class="columns social-icons">
+        <!-- div to centre icons -->
+        <div>
+          <ul class="inline-list">
+            {% for social_item in site.data.socialmedia %}
+            <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}"
+                   title="{{ social_item.title }}"></a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+    </nav>
+    <nav class="row">
+      <section class="columns">
+        <p>
+          &#169; Copyright 2020 TrashMap. All rights reserved.
+        </p>
+      </section>
+    </nav>
+  </div>
+</footer>
+

@@ -1,0 +1,11 @@
+#
+#   Navigation to the left › side: left
+#
+
+- title: "About"
+  url: "/"
+  side: left
+
+- title: "Map"
+  url: "/map/"
+  side: left
