@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000//assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000//assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="http://localhost:4000/assets/xslt/atom.xslt">
+	<link rel="canonical" href="http://localhost:4000//assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="You have the right to know what happens to your waste, how much taxes is spent on it and how it impacts your health and natural environment">
-	<meta property="og:url" content="http://localhost:4000/assets/xslt/atom.xslt">
+	<meta property="og:url" content="http://localhost:4000//assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Trash Map">
@@ -54,7 +54,7 @@
 
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000//humans.txt">
 
 	
 
@@ -96,7 +96,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000"><!-- <img src="/assets/img/favicon.ico" style="width: 32px"/> -->
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/"><!-- <img src="/assets/img/favicon.ico" style="width: 32px"/> -->
  Trash Map</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
@@ -136,7 +136,7 @@
             
             
               <li class="">
-                <a  href="http://localhost:4000/">
+                <a  href="http://localhost:4000//">
                   
                     About
                   
@@ -156,7 +156,7 @@
             
             
               <li class="">
-                <a  href="http://localhost:4000/map/">
+                <a  href="http://localhost:4000//map/">
                   
                     Map
                   
@@ -179,7 +179,7 @@
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="/" title="Trash Map – You have the right to know what happens to your waste, how much taxes is spent on it and how it impacts your health">
-				<img src="http://localhost:4000/assets/img/" alt="Trash Map – You have the right to know what happens to your waste, how much taxes is spent on it and how it impacts your health">
+				<img src="http://localhost:4000//assets/img/" alt="Trash Map – You have the right to know what happens to your waste, how much taxes is spent on it and how it impacts your health">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -282,7 +282,7 @@
 		
 
 
-<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000//assets/js/javascript.min.js"></script>
 
 
 
