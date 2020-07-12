@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:4000//assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="http://localhost:4000//assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Trash Map</title>
 		<description>You have the right to know what happens to your waste, how much taxes is spent on it and how it impacts your health and natural environment</description>
-		<link>http://localhost:4000//</link>
-		<atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Why is this urgent?</title>
-				<link>http://localhost:4000//explore/why-is-this-urgent/</link>
+				<link>http://localhost:4000/explore/why-is-this-urgent/</link>
 				<pubDate>Fri, 19 Jun 2020 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000//explore/why-is-this-urgent/</guid>
+				<guid isPermaLink="true">http://localhost:4000/explore/why-is-this-urgent/</guid>
 			</item>
 		
 			<item>
 				<title>What we plan to do next</title>
-				<link>http://localhost:4000//projects/future-projects/</link>
+				<link>http://localhost:4000/projects/future-projects/</link>
 				<pubDate>Wed, 17 Jun 2020 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000//projects/future-projects/</guid>
+				<guid isPermaLink="true">http://localhost:4000/projects/future-projects/</guid>
 			</item>
 		
 			<item>
 				<title>Waste management in Indonesia</title>
-				<link>http://localhost:4000//projects/waste-management-in-indonesia/</link>
+				<link>http://localhost:4000/projects/waste-management-in-indonesia/</link>
 				<pubDate>Mon, 15 Jun 2020 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000//projects/waste-management-in-indonesia/</guid>
+				<guid isPermaLink="true">http://localhost:4000/projects/waste-management-in-indonesia/</guid>
 			</item>
 		
 	</channel>
