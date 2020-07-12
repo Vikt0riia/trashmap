@@ -1,6 +1,6 @@
 ---
 permalink: /map/
-homepage: true
+# homepage: true
 ---
 
 <div class="paragraph">  
