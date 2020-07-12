@@ -272,4 +272,4 @@ sass:
 #     coderay-css: style
 #     icons: font
 # Gems
-# gems: [jekyll-paginate]
+gems: [jekyll-paginate]

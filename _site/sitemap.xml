@@ -5,26 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/404.html</loc>
+	<loc>http://localhost:4000//404.html</loc>
 	
-		<lastmod>2020-07-12T20:38:09+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/atom.xml</loc>
-	
-		<lastmod>2020-07-12T20:38:09+02:00</lastmod>
+		<lastmod>2020-07-12T23:11:37+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,69 +22,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/feed.xml</loc>
+	<loc>http://localhost:4000//atom.xml</loc>
 	
-		<lastmod>2020-07-12T20:38:09+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/humans.txt</loc>
-	
-		<lastmod>2020-07-12T20:38:09+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/</loc>
-	
-		<lastmod>2020-07-12T20:38:09+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/map/</loc>
-	
-		<lastmod>2020-07-12T20:38:09+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/robots.txt</loc>
-	
-		<lastmod>2020-07-12T20:38:09+02:00</lastmod>
+		<lastmod>2020-07-12T23:11:37+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -115,12 +38,89 @@
 	
 
 	
+	<url>
+	<loc>http://localhost:4000//feed.xml</loc>
+	
+		<lastmod>2020-07-12T23:11:37+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
 	
 	<url>
-	<loc>http://localhost:4000/sitemap.xml</loc>
+	<loc>http://localhost:4000//humans.txt</loc>
 	
-		<lastmod>2020-07-12T20:38:09+02:00</lastmod>
+		<lastmod>2020-07-12T23:11:37+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//</loc>
+	
+		<lastmod>2020-07-12T23:11:37+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//map/</loc>
+	
+		<lastmod>2020-07-12T23:11:37+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//robots.txt</loc>
+	
+		<lastmod>2020-07-12T23:11:37+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//sitemap.xml</loc>
+	
+		<lastmod>2020-07-12T23:11:37+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -138,7 +138,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/explore/why-is-this-urgent/</loc>
+	<loc>http://localhost:4000//explore/why-is-this-urgent/</loc>
 	
 		<lastmod>2020-06-19T00:00:00+02:00</lastmod>
 	
@@ -153,7 +153,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/projects/future-projects/</loc>
+	<loc>http://localhost:4000//projects/future-projects/</loc>
 	
 		<lastmod>2020-06-17T00:00:00+02:00</lastmod>
 	
@@ -168,7 +168,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/projects/waste-management-in-indonesia/</loc>
+	<loc>http://localhost:4000//projects/waste-management-in-indonesia/</loc>
 	
 		<lastmod>2020-06-15T00:00:00+02:00</lastmod>
 	
