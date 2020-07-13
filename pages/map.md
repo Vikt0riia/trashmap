@@ -1,4 +1,6 @@
 ---
+layout: map-layout
+header: no
 permalink: /map/
 # {% include trash_datamaps.html %}
 # homepage: true
