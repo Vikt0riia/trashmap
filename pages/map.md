@@ -24,16 +24,13 @@ permalink: /map/
 <!--<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>-->
 <script src="https://d3js.org/d3-axis.v1.min.js"></script>
 <script src="https://d3js.org/d3-selection-multi.v1.min.js"></script>
-
-<!--    <script src="https://d3js.org/d3.v4.min.js"></script>-->
-<!--<script src="https://d3js.org/d3.v4.min.js"></script>-->   
     
 
 <script>
 
 var dataset = {};
 var colorLegend = {};
-d3.csv("../country_level_data_0.csv", function(error, csvdata1) {
+d3.csv("https://github.com/Vikt0riia/trashmap/blob/master/country_level_data_0.csv", function(error, csvdata1) {
 //
 //    // We need to colorize every country based on "numberOfWhatever"
 //    // colors should be uniq for every value.
