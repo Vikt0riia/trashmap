@@ -85,13 +85,13 @@ language: 'en'
 
 # Used › default.html front-matter and compress.html
 # Options › http://jch.penibelst.de
-# compress_html:
-#   clippings: all
-#   comments: ["<!-- ", " -->"]
-#   endings: all
-#   profile: false
-#   ignore:
-#     envs: [development]
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: false
+  ignore:
+    envs: [development]
 
 
 #
