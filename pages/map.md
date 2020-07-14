@@ -30,7 +30,7 @@ permalink: /map/
 
 var dataset = {};
 var colorLegend = {};
-d3.csv("{{ url }}/country_level_data_0.csv", function(error, csvdata1) {
+d3.csv("/trashmap/country_level_data_0.csv", function(error, csvdata1) {
 //
 //    // We need to colorize every country based on "numberOfWhatever"
 //    // colors should be uniq for every value.
