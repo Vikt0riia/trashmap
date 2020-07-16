@@ -2,8 +2,6 @@
 layout: map-layout
 header: no
 permalink: /map/
-# {% include trash_datamaps.html %}
-# homepage: true
 ---
 <div class="paragraph">  
 <a href="https://datacatalog.worldbank.org/dataset/what-waste-global-database" style = "position: absolute; ; bottom: 30pt; right: 30pt; z-index: 1;">Data are publically available in World Bank: "What A Waste Global Database"</a>
